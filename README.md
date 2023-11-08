@@ -21,17 +21,17 @@ Before you get started, make sure you have the following components installed on
 2. **Install Dependencies**
     Run this command to install dependencies 
     
-    ```
-        yarn 
+    ```shell
+    yarn 
     ```
     or
 
     ```shell
-        npm install
+    npm install
+    ```
 3. Run app
    To run the app run this command
-
     ```shell
     npm start
 
-NOTE: Used a open source library `react-scheduler` for calender UI
+Used a open source library `react-scheduler` for calender UI
